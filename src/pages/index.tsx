@@ -184,7 +184,7 @@ export default function Home() {
                 Welcome To Next Tailwind
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-                Lorem ipsum dolor sit amet
+                Lorem ipsum dolor sit amet printing since 1915.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
